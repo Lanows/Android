@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">projetoHeadsUp</string>
+    <string name="config">Decidam quem irá ser o primeiro jogador a adivinhar. O escolhido irá iniciar o aplicativo e colocar o telefone de costas para a sua testa, ou seja, com a tela virada na direção do segundo jogador para que ele consiga ver a tela. Depois de uma contagem regressiva, o jogo vai começar. O jogador 2 irá ver as palavras e dará dicas e descrições relacionadas a palavra para que o jogador 1 tente adivinhar. O jogador 2 deve dizer quando a palavra for acertada. Uma vez que a palavra foi dita, incline o dispositivo para baixo para contabilizar seu ponto e passar para a próxima palavra. Se o jogador 1 não sabe qual é a palavra, incline o telefone para cima para passar para a palavra seguinte sem contabilizar nem perder pontos. Cada jogador tem 60 segundos para adivinhar todas as palavras que aparecerem no seu turno. Uma vez que o tempo acabou, o jogo mostrará a pontuação total e pedirá para passar para o próximo jogador. Ganhará aquele que adivinhar mais palavras durante o tempo total de jogo.</string>
+    <!--Abelha-->
+    <!--Baleia-->
+    <!--Borboleta-->
+    <!--Burro-->
+    <!--Cachorro-->
+    <!--Caranguejo-->
+    <!--Cobra-->
+    <!--Coelho-->
+    <!--Elefante-->
+    <!--Galinha-->
+    <!--Gato-->
+    <!--Leão-->
+    <!--Macaco-->
+    <!--Morcego-->
+    <!--Pato-->
+    <!--Porco-->
+    <!--Sapo-->
+    <!--Tartaruga-->
+    <!--Urso-->
+    <!--19 itens-->
+
+
+    <!--Arya stark-->
+    <!--Bart Simpsons-->
+    <!--Bulma-->
+    <!--Capitã Marvel-->
+    <!--Capitão América-->
+    <!--Daenerys-->
+    <!--Dean Winchester-->
+    <!--Dr. Estranho-->
+    <!--Goku-->
+    <!--Gon-->
+    <!--Harry Potter-->
+    <!--Hisoka-->
+    <!--Homem Aranha-->
+    <!--Homem de Ferro-->
+    <!--Homer Simpsons-->
+    <!--Hulk-->
+    <!--Jon snow-->
+    <!--Killua-->
+    <!--Kuririn-->
+    <!--Lisa Simpsons-->
+    <!--Naruto-->
+    <!--Orochimaru-->
+    <!--Sam Winchester-->
+    <!--Sasuke-->
+    <!--Shazam-->
+    <!--Thor-->
+    <!--Vegetta-->
+    <!--Voldemort-->
+    <!--28 itens-->
+
+
+</resources>
